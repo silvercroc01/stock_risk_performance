@@ -29,8 +29,7 @@ This project automates data collection, risk metric calculation, visualization, 
 
 1. **Clone the repo and set up a virtual environment:**
     ```bash
-    git clone <your-repo-url>
-    cd sp500-sector-risk
+    git clone  https://github.com/silvercroc01/stock_risk_performance.git 
     python3 -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt

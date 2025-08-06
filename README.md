@@ -5,8 +5,6 @@
 A Python project to analyze and visualize risk and performance metrics for S&P 500 sector ETFs.  
 This project automates data collection, risk metric calculation, visualization, and reporting—making it easy to monitor sector risk and performance over time.
 ```
-```
-```
 
 ---
 ## Features
@@ -60,9 +58,3 @@ This project automates data collection, risk metric calculation, visualization, 
 
 ---
 
-##  How to Present
-
-- “This project automates the full risk analysis pipeline for S&P 500 sectors, from data collection to reporting.”
-- “It provides clear, actionable insights for portfolio and risk management, and is easy to extend or automate.”
-
----
